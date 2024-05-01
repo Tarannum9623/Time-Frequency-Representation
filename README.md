@@ -4,7 +4,7 @@ This repository contains code and resources for performing time-frequency analys
 
 ## Overview
 
-In this project, we demonstrate the process of time-frequency analysis applied to audio signals. We follow a step-by-step approach to extract audio files, process them, perform Short Time Fourier Transform (STFT), and generate spectrograms. Additionally, we analyze a chirp signal and its spectrogram to illustrate the concepts.
+In this project, we demonstrate the process of time-frequency analysis applied to audio signals. We follow a step-by-step approach to extract audio files, process them, perform Short Time Fourier Transform (STFT), and generate spectrograms and mel-spectrogram. Additionally, we analyze a chirp signal and its spectrogram to illustrate the concepts.
 
 ## Requirements
 
@@ -12,8 +12,10 @@ In this project, we demonstrate the process of time-frequency analysis applied t
 - Libraries: NumPy, SciPy, Matplotlib, Librosa, Sounddevice
 
 ## References
-Data Driven Science & Engineering
-Machine Learning, Dynamical Systems, and Control  (by: Steven L. Brunton and J. Nathan Kutz)
+
+- Data Driven Science & Engineering
+  Machine Learning, Dynamical Systems, and Control  (by: Steven L. Brunton and J. Nathan Kutz)
+- Audio Signal Processing for Machine Learning : ( https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0&si=aG4yq-kFlrY-yc1e )
 
 ## Usage
 
