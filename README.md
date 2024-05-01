@@ -22,5 +22,5 @@ In this project, we demonstrate the process of time-frequency analysis applied t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/time-frequency-analysis.git
+   git clone https://github.com/Tarannum9623/Time-Frequency-Representation.git
 
