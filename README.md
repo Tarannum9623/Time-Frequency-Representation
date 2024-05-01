@@ -11,6 +11,10 @@ In this project, we demonstrate the process of time-frequency analysis applied t
 - Python 3.x
 - Libraries: NumPy, SciPy, Matplotlib, Librosa, Sounddevice
 
+## References
+Data Driven Science & Engineering
+Machine Learning, Dynamical Systems, and Control  (by: Steven L. Brunton and J. Nathan Kutz)
+
 ## Usage
 
 1. Clone the repository:
